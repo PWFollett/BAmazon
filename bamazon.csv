@@ -1,0 +1,11 @@
+(item_id, product_name, department_name, price, stock_quantity) 
+ (101, "cleats", "football", 59.99, 20),
+	   (212, "shoes", "basketball", 99.99, 20),
+	   (313, "shoulder pads", "football", 129.99, 5),
+	   (420, "jersey", "hockey", 99.99, 12),
+	   (504, "helmet", "football", 49.99, 10),
+	   (619, "game ball", "soccer", 39.99, 19),
+	   (720, " batting gloves", "baseball", 29.99, 11),
+	   (808, "wooden bats", "baseball", 89.99, 5),
+	   (913, "wooden stick", "hockey", 99.99, 15),
+	   (1009, "shorts", "basketball", 39.99, 17)

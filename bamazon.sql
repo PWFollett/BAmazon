@@ -29,4 +29,3 @@ VALUES (101, "cleats", "football", 59.99, 20),
 	   (808, "wooden bats", "baseball", 89.99, 5),
 	   (913, "wooden stick", "hockey", 99.99, 15),
 	   (1009, "shorts", "basketball", 39.99, 17)
-
